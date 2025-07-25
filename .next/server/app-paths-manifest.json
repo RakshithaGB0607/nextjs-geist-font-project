@@ -1,0 +1,7 @@
+{
+  "/chat/[chatId]/page": "app/chat/[chatId]/page.js",
+  "/chat/page": "app/chat/page.js",
+  "/matches/page": "app/matches/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}
